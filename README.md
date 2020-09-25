@@ -1,1 +1,1 @@
-# rickMotyApi-Reactjs
+# rickMortyApi-Reactjs
