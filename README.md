@@ -12,7 +12,8 @@ aplicação também foram configurados o prettier, eslint e editorconfig.
 Para executar o projeto, utilize o seguinte comando na raiz do projeto:
 
 ```bash
-yarn start
+- yarn
+- yarn start
 ```
 
 Caso queira rodar os testes automatizadas na aplicação, use o comando:
