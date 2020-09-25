@@ -29,3 +29,7 @@ yarn test
 Clique para saber mais sobre as rotas e especificação:
 
 [api](https://rickandmortyapi.com/documentation/).
+
+## Deploy no Netlify
+
+https://boring-lovelace-03db10.netlify.app/
